@@ -21,3 +21,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.firebase
+.package-lock.json
+yarn.lock
+public/mockServiceWorker.js
+
+.npmrc
+.env

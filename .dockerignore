@@ -1,0 +1,17 @@
+.editorconfig
+.eslintrc.yml
+.git
+.gitignore
+.prettierrc.yaml
+.env
+Dockerfile
+bitbucket-pipelines.yml
+jest.config.js
+k8s
+test
+web_deploy.js
+node_modules
+client
+lib
+protos
+*.log
